@@ -71,11 +71,11 @@ return [
     // Habinfo
     "Closed profile, loading might take longer." => "Bu Habbo'nun profili kapalı. Bu Habbo'ya erişim biraz uzun sürebilir.",
     "This Habbo is banned. We can not get any new information.." => "Bu Habbo Kullanıcısı yasaklandığından yeni bilgilere ulaşamadık..",
-    "Previous mottos" => "Geçmiş mottoları",
-    "Previous looks" => "Eski Tarzı",
+    "Previous mottos" => "Önceki mottoları",
+    "Previous looks" => "Eski Kıyafeti",
     "Last online" => "Son Çevrimiçi",
     "Last change" => "Son değişiklik",
-    "Go to profile" => "Habbo Profiline Geç",
+    "Go to profile" => "Habbo Profiline Git",
     "Closed profile" => "Kapalı Profil",
     "Banned" => "Bu Habbo Banlandı",
     "About me" => "Benim Hakkımda",
@@ -85,7 +85,7 @@ return [
     "Friends" => "Arkadaşları",
     "Groups" => "Grupları",
     "Rooms" => "Odaları",
-    "Photos" => "Resımlerı",
+    "Photos" => "Resimleri",
     "new" => "YENİ", // Little label on new badges/friends etc. If your word is long (6+ characters), see if you can shorten it
     "This Habbo is not in the Habinfo system yet" => "Bu Habbo şuan Habbo sisteminde bulunmamakta",
     "Show old badges" => "Eski Rozetleri göster",
@@ -109,7 +109,7 @@ return [
     "likes" => "beğeni",
     "Show on Habbo" => "Habboda göster",
     "Who else has this badge?" => "Bu Rozet başka kimde var?",
-    "Removed" => "Geri alindi",
+    "Removed" => "Geri alındı",
     "%s has been a Habbo since %s and has %d badges, %d friends, %d groups and %d rooms!" => "%s, %s'den beri Habbo kullanıcısı ve %d rozet, %d arkadaş, %d grup ve %d odaya sahip!", // Leave the %s and %d intact
     "Back to top" => "Yukarı Dön",
     "Go to Badges" => "Rozetlere git",
@@ -147,11 +147,11 @@ return [
     "Habbos have this badge.." => "Habbolarda bu Rozet bulunuyor..", // ":number: Habbos have this badge.."
     "A lot of Habbos have this badge.." => "Birçok Habbolarda bu Rozet bulunuyor..",
     "So we can not show them all." => "Bu yüzden hepsini gösteremiyoruz.",
-    "Find Habbos who own.." => "Hangi Habbolarda bulunan Rozetleri bul..",
+    "Find Habbos who own.." => "Hangi Habbolarda bulunan rozetleri bul..",
     "Badge code" => "Rozet kodu",
     "Why don't you check out.." => "Buraya neden bakmıyorsun..",
     "unique badges in" => "Nadir Rozet", // ":number: unique badges in :hotel:"
-    "owners" => "Sahıplerı",
+    "owners" => "Sahipleri",
     "There are no unique badges in this hotel.." => "Bu Otelde nadir rozet bulunmuyor..",
 
     // Time

@@ -23,9 +23,9 @@ return [
     "Generated in" => "Burada yapıldı",
     "Current server time" => "Güncel server saati",
     // Landing page
-    "What's your Habbo name?" => "Habbo Kullanıcı adın ney?",
+    "What's your Habbo name?" => "Habbo Kullanıcı Adın Nedir?",
     /* -- Try to add the <br> at around 70 characters, so the next part goes on a new line */
-    "landing_page_info" => "Tüm Habbolar hakkında daha fazla bilgi alabilirsin.<br>Mesela Personeller başka Habbolar veya Arkadaşınların Hakkında!",
+    "landing_page_info" => "Tüm Habbolar hakkında daha fazla bilgi alabilirsin.<br>Mesela Personeller, Başka Habbolar veya Arkadaşınların Hakkında!",
 
     // General
     "Habbo" => "Habbo",
@@ -33,18 +33,18 @@ return [
     "Habbo name" => "Habbo Kullanıcı Adın",
     "Oops.." => "Oops..",
     "from" => "burdan", // "Viewing page of :habbo: from :hotel:"
-    "View Habinfo" => " Habbo Bilgisini ziyaret",
-    "This hotel does not exist, redirecting you.." => "Bu otel bulunmakta değil başka yere yönlendiriyorsun..",
+    "View Habinfo" => " Habbo Bilgisini Görüntüle",
+    "This hotel does not exist, redirecting you.." => "Böyle bir otel yok, yönlendiriliyorsunuz...",
 
     // [habbo] Birthdays
     /* -- "Birthdays in Habbo.:hotel:" */
     "Birthdays in Habbo." => "Habboda doğum günüleri.",
     "Do you know anyone?" => "Bunlardan birini tanıyormusun?",
-    "There are no birthdays in this hotel as far as we know?" => "Bu otelde bugünün doğum günü olanı bilmiyorsa ya sen?",
-    "Pick another date" => "Başka bir tarih seç",
+    "There are no birthdays in this hotel as far as we know?" => "Bildiğimiz kadarıyla bu otelde bugün doğum günü olan yok.",
+    "Pick another date" => "Başka bir tarih seçin",
     "All years" => "Bütün Yıllar",
     "You have supplied an invalid date" => "Geçersiz bir tarih girdiniz",
-    "This date lies in the future and can not be used" => "Bu tarih gelecekte yatar ve kullanılamaz",
+    "This date lies in the future and can not be used" => "Gelecekten bir tarih kullanılamaz",
 
     // Habinfo Form
     "Find Habinfo on.." => "Habinfoyu buradan bulabilirsin..",
@@ -52,8 +52,8 @@ return [
     "Tip" => "İpucu",
     "Did you know you can also use a Direct URL to get to the Habbo you want to find?" => "Bunu biliyormuydun? Bir Habbo bulmak için direk Link kullanarak bulabilirsin!",
     "Just use the following format" => "Bunu kullan",
-    "This hotel does not exist" => "Bu Hotel bulunmakta değil",
-    "You forgot the Habbo name.." => "Habbo Kullanıcıadını unuttun..",
+    "This hotel does not exist" => "Böyle bir otel yok",
+    "You forgot the Habbo name.." => "Habbo kullanıcı adını unuttun..",
     "Extracting Habinfo of %s from Habbo.%s" => "%s from Habbo.%s yönlendiriliyorsun", // Leave the %s intact
     "Extracting Habinfo of someone from Habbo.%s" => "Herhangi bir Habbonun Habbo.%s Bilgisine yönlendiriliyorsun",
 
@@ -64,30 +64,30 @@ return [
     "on_time" => "on", // could be different in languages other than English i.e. Dutch.
     "One moment.." => "Bir dakika..",
     "Something went wrong, we couldn't find that Habbo. Or they are banned.." => "Bir şeyler yanlış gitti.. bu Habboyu bulamadık veyada yasaklandı..",
-    "Return to the Habinfo widget" => "Habinfo araçına geri dön",
-    "Visit Habinfo history" => "Habboinfo Hikayesini ziyaret",
-    "habinfo_user_banned" => "Bu Habbo Kullanıcısı yasaklandı bu yüzden hic bir bilgi bulamıyoruz.",
+    "Return to the Habinfo widget" => "Habinfo aracına geri dön",
+    "Visit Habinfo history" => "Habboinfo'nun Hikayesini Ziyaret Et",
+    "habinfo_user_banned" => "Bu Habbo Kullanıcısı yasaklandı bu yüzden hiç bir bilgi bulamıyoruz.",
 
     // Habinfo
-    "Closed profile, loading might take longer." => "Kapalı Profili olan Habbo Bilgisini öğrenmek biraz zaman alır.",
-    "This Habbo is banned. We can not get any new information.." => "Bu Habbo Kullanıcısı yasaklandı yeni bilgi bulunamadık..",
+    "Closed profile, loading might take longer." => "Bu profil kapalı, yüklenmesi biraz uzun sürecek...",
+    "This Habbo is banned. We can not get any new information.." => "Bu Habbo Kullanıcısı yasaklandı. Yeni bir bilgi bulunamadık..",
     "Previous mottos" => "Eski motto",
-    "Previous looks" => "Eski Tarzi",
+    "Previous looks" => "Eski Tarzı",
     "Last online" => "Son oturum açma",
     "Last change" => "Son değişiklik",
     "Go to profile" => "Profile geç",
     "Closed profile" => "Kapalı Profil",
-    "Banned" => "Bu Habbo Banlandı",
+    "Banned" => "Bu Habbo Yasaklanmış",
     "About me" => "Hakkımda",
     /* -- "Created on :date: and last updated :some time ago:" */
-    "Created on" => "Tarıhınde açildi",
-    "and last updated" => "ve en son güncellendi",
+    "Created on" => "Tarihinde oluşturuldu",
+    "and last updated" => "ve son güncelleme",
     "Friends" => "Arkadaşları",
     "Groups" => "Grupları",
     "Rooms" => "Odaları",
     "Photos" => "Resımlerı",
-    "new" => "new", // Little label on new badges/friends etc. If your word is long (6+ characters), see if you can shorten it
-    "This Habbo is not in the Habinfo system yet" => "Bu Habbo şuan Habbo sisteminde bulunmakta değil",
+    "new" => "yeni", // Little label on new badges/friends etc. If your word is long (6+ characters), see if you can shorten it
+    "This Habbo is not in the Habinfo system yet" => "Bu Habbo şu an HabboInfo sisteminde yok.",
     "Show old badges" => "Eski Rozetleri göster",
     "Show old friends" => "Eski Arkadaşları göster",
     "Show old groups" => "Eski Gruplari göster",
